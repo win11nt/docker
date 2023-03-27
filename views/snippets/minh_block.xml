@@ -1,0 +1,8 @@
+<odoo>
+ 	​<template id="minh_block" name="Minh Block">
+<!-- Html đc bao phủ bởi phần section -->
+		​<section>
+		​	​<p>Quach Duy Minh</p>
+		​</section>
+    ​</template>
+</odoo>

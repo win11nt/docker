@@ -1,0 +1,22 @@
+<odoo>
+    <template id="v_block" name="V Block">
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 text-center">
+                        <h3>Client Name</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <h3>Client Name</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <h3>Client Name</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+</odoo>
